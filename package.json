@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "Simple backend for testing frontend connection",
+  "description": "Simple backend for Railway deployment",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -15,4 +15,3 @@
     "express": "^4.18.2"
   }
 }
-
